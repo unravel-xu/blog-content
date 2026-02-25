@@ -52,8 +52,8 @@ published: 2026-02-25
 ├── wiki
 │   └── wiki code (Fumadocs)
 └── content
-    ├── blog-content (blog仓库)
-    └── wiki-content (wiki仓库)
+    ├── blog-content (blog内容仓库)
+    └── wiki-content (wiki内容仓库)
 ```
 
 共计 4 个 GitHub 仓库来维护
