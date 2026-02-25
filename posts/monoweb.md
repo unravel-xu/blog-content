@@ -43,6 +43,7 @@ description: 关于Mono-Web的由来
 ## 目录组织
 
 当前我的项目目录如下：
+
 ```bash
 .
 ├── blog
@@ -53,6 +54,7 @@ description: 关于Mono-Web的由来
     ├── blog-content (blog仓库)
     └── wiki-content (wiki仓库)
 ```
+
 共计 4 个 GitHub 仓库来维护
 
 在本地 `blog-content` 和 `wiki-content` 分别是单独的 obsidian vault
