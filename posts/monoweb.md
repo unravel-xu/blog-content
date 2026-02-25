@@ -1,6 +1,7 @@
 ---
 title: Mono-Web
 description: 关于Mono-Web的由来
+published: 2026-02-25
 ---
 
 # 什么是Monoweb
